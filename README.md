@@ -27,14 +27,16 @@ This is a real-time, gesture-controlled bird game where you play by moving your 
 1. Clone the repository:
    command:
    git clone https://github.com/your-username/gesture-bird-game.git
+   
    cd gesture-bird-game
-2. Create a virtual environment (optional but recommended):
+3. Create a virtual environment (optional but recommended):
    command:
    python -m venv venv
+   
    source venv/bin/activate  # or venv\Scripts\activate on Windows
-3. Install dependencies:
+5. Install dependencies:
    code:
     pip install -r requirements.txt
-4. Run the game:
+6. Run the game:
     code:
     python gesture_bird_game.py
